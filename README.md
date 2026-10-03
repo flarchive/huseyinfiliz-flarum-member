@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of huseyinfiliz/flarum-member.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/flarum-member) or the [upstream repository](https://github.com/huseyinfiliz/flarum-member).
 
-**0** versions archived · Latest: [`v1.1`](https://github.com/flarchive/huseyinfiliz-flarum-member/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.1`](https://github.com/flarchive/huseyinfiliz-flarum-member/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2024-12-05 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-member/tree/archive/v1.0) |
+| `v1.1` | 2024-12-06 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-member/tree/archive/v1.1) |
+| `v1.1-alpha` | 2024-12-06 | `^1.2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-flarum-member/tree/archive/v1.1-alpha) |
 
 Catalog entry: [packages/huseyinfiliz-flarum-member.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-flarum-member.json)
 
